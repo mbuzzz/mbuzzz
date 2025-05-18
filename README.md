@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rifqy Iza Fahrizal
 
-<!--
-**mbuzzz/mbuzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Creating a Fun Brand for a Fun Business**  
+💡 **Learn and Share Design Knowledge Together**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about design and building brands that are as enjoyable as they are effective. With a strong focus on creativity, I strive to create fun and engaging projects that inspire others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m Learning
+- Exploring innovative design techniques
+- Working on personal branding strategies
+- Enhancing my knowledge of UX/UI principles
+- Sharing my journey with the design community
+
+## 🔧 Technologies & Tools
+- **Design:** Adobe Creative Suite (Illustrator, Photoshop, XD), Figma
+- **Web Development:** HTML, CSS, JavaScript
+- **Branding & Identity Design:** Logo Design, Typography, Color Theory
+
